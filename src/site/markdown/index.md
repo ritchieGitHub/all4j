@@ -53,5 +53,4 @@ It was part of a poster with the subtitle:
 
 "to all oppressed animals in this bestial universe, defend yourself"
 
-As i am a vegetarian (and almost vegan) I support this message with all 
-my hard.
+As i am a vegetarian I endorse this, with absolute conviction!.
