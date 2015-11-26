@@ -23,6 +23,10 @@ novaforjava is a general purpose, double precision, Celestial Mechanics, Astrome
 
 This is a platform independent library Java library implementing the PTP/MTP/PTP2 protocol to communicate with camera devices.
 
+[![nanohttpd](https://avatars3.githubusercontent.com/u/4050245?v=3&s=84)](http://www.nanohttpd.org/) NanoHTTPD
+
+NanoHTTPD is a light-weight HTTP server designed for embedding in other applications.
+
 [![jenesis4java](https://a.fsdn.com/allura/p/jenesis4java/icon)](https://sourceforge.net/projects/jenesis4java) jenesis4java
 
 This a republished version of the inxar tool jenesis, because the original library is not available in the internet anymore. It is a Library to generate Java 8 code using a simple to use domain object model.
