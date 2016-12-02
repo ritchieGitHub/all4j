@@ -58,4 +58,4 @@ It was part of a poster with the subtitle:
 
 "to all oppressed animals in this bestial universe, defend yourself"
 
-As i am a vegetarian I endorse this, with absolute conviction!.
+As i am vegan I endorse this, with absolute conviction!.
